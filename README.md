@@ -15,6 +15,7 @@ Profile
 ---
 <img src="https://user-images.githubusercontent.com/79691180/147713691-f73f7c28-25a8-4d9f-95fb-c18feb1722c3.jpg" width="500" height="400">
 
+['김승희'의 티스토리](https://lionpower.tistory.com/)</br>
 
+['김승희'의 노션이력서](https://www.notion.so/13d0c535a49d41f3bf6959c6553afb64)
 
-  
